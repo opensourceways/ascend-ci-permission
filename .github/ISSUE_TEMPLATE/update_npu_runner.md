@@ -1,7 +1,7 @@
 ---
-name: "🚀 Update Organization"
-about: "Change NPU compute resources for organization workflows"
-title: "[Update] Change Organization to NPU Runners"
+name: "🚀 Modify Organization"
+about: "Modify the NPU resources configured for an organization"
+title: "[Update] Change NPU Runners of Organization"
 labels: "npu-resources"
 assignees: ""
 ---
