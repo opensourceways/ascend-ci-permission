@@ -9,12 +9,12 @@ assignees: ""
 Welcome to use this template to submit an issue to add your organization to the NPU operator. Please follow the instructions below to fill in the relevant information so that we can process your request more efficiently.
 
 ```yaml
-org-name:
-github-app:
-  instalation-id:
-runner-group:
-  group-name:
-runner-set:
+org-name: 
+github-app: 
+  instalation-id: 
+runner-group: 
+  group-name: 
+runner-set: 
   npu-counts: 
 ```
 
