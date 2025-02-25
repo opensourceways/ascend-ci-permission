@@ -1,7 +1,7 @@
 ---
-name: "🚀 NPU Runner Deployment Request"
+name: "🚀 Add Organization"
 about: "Request NPU compute resources for organization workflows"
-title: "[NPU REQUEST] Add {org-name} to NPU Runners"
+title: "[Insert] Add Organization to NPU Runners"
 labels: "npu-resources"
 assignees: ""
 ---
